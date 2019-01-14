@@ -4,5 +4,17 @@
   "require": {
     "yiisoft/yii2": "~2.0.14",
     "linslin/yii2-curl": "*"
+  },
+  "keywords": ["yii2","extension","sbis"],
+  "authors": [
+    {
+      "name": "Nikita Zarubin",
+      "email": "nikitadimitrov@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "nikserg\\sbis\\": ""
+    }
   }
 }
