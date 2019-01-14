@@ -2,6 +2,6 @@
   "name": "nikserg/sbis",
   "description": "Поддержка API СБИС",
   "require": {
-    "yiisoft/yii2": "~2.0.0"
+    "yiisoft/yii2": "~2.0.14"
   }
 }
