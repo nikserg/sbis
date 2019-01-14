@@ -2,7 +2,7 @@
   "name": "nikserg/sbis",
   "description": "Поддержка API СБИС",
   "require": {
-    "php": "^7.2",
+    "php": "^7.1",
     "yiisoft/yii2": "*"
   }
 }
