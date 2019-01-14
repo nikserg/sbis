@@ -2,6 +2,7 @@
   "name": "nikserg/sbis",
   "description": "Поддержка API СБИС",
   "require": {
-    "yiisoft/yii2": "~2.0.14"
+    "yiisoft/yii2": "~2.0.14",
+    "linslin/yii2-curl": "*"
   }
 }
